@@ -28,6 +28,9 @@ pip install -r requirements.txt
 **`Python 3.12`** 
 **`Jupyter Notebook`**
 
+## Demo
+
+![](https://github.com/srikanth-17/Streamlit_Works/blob/main/SS1.png)
 
 ## Refered Documents
 
